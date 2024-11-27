@@ -1,0 +1,47 @@
+single
+retrive all books which is publish in 2008
+retrive all books which price is greater than 600 order by year
+
+insert
+Insert a new record with values 21, het, het, 2025, 500  
+
+update
+set price = 600 where year less than 2004
+
+delete
+delete all records where price is less than 1000 
+
+two table
+Find all book titles along with the customer's name and purchase date, where the book price is greater than 1100 and published after 2003
+
+Retrieve the names and email addresses of customers who purchased books authored by 'Jane Austen' or 'Herman Melville' between July 1, 2023, and October 31, 2023.
+
+List the names and PurchaseDate of customers who purchased books authored by 'Jane Austen'.
+
+
+
+
+
+three table
+
+Retrieve all orders placed by customers named 'John Doe', along with the book titles and the total price of each order.
+
+List all books authored by 'Leo Tolstoy' along with their published year and the names of customers who purchased these books.
+
+Find the names and email addresses of customers who purchased books with a price greater than 1000
+
+List the books each customer has purchased along with the order date
+
+List all customers who bought books published after 2005, along with the order quantity and date
+
+give me name of customer where total price is greater than 1000
+
+
+
+four table 
+
+List all books that have a stock quantity below 5, along with the customers who ordered them, the order quantity, and the total price 
+
+give me all details were order date between 1-1-2024 and 3-31-2024?
+
+
